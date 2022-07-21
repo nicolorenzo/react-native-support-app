@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-support-help",
+    "slug": "react-native-support-help",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
